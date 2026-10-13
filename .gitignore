@@ -1,0 +1,9 @@
+FlatQuant/datasets/
+**/*.pt
+**/*.pth
+**/*.bin
+**/*.safetensors
+MoE/outputs/
+MoE/ckpts/
+MoE/results/
+experiments/
